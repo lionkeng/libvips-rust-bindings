@@ -1,4 +1,10 @@
 # Changelog
+## [Unreleased]
+
+### Features
+
+* **libvips:** update bindings to 8.15.2
+
 
 ## [1.7.0](https://github.com/olxgroup-oss/libvips-rust-bindings/compare/v1.6.1...v1.7.0) (2024-02-03)
 
